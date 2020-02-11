@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a42911b-0691-491d-9d90-a8726ccd0b8f" name="Default Changelist" comment="" />
+    <list default="true" id="5a42911b-0691-491d-9d90-a8726ccd0b8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ypapp/schools/szsy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ypapp/schools/szsy.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XeZqMrkjDBGbNNXHYPk1OyDDfn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,9 +38,13 @@
     </key>
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="232" key="SettingsEditor" timestamp="1581409086006">
+    <state x="461" y="232" key="SettingsEditor" timestamp="1581410110373">
       <screen x="0" y="23" width="1920" height="1141" />
     </state>
-    <state x="461" y="232" key="SettingsEditor/0.23.1920.1141@0.23.1920.1141" timestamp="1581409086006" />
+    <state x="461" y="232" key="SettingsEditor/0.23.1920.1141@0.23.1920.1141" timestamp="1581410110373" />
+    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1581409898414">
+      <screen x="0" y="23" width="1920" height="1141" />
+    </state>
+    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup/0.23.1920.1141@0.23.1920.1141" timestamp="1581409898414" />
   </component>
 </project>

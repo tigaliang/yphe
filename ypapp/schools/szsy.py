@@ -1,4 +1,5 @@
 # coding=utf-8
+
 from ypapp.models import NewsItem
 from ypapp.schools._base_school import BaseSchool
 
