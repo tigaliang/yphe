@@ -2,197 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a42911b-0691-491d-9d90-a8726ccd0b8f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/backports.functools_lru_cache-1.6.1.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/backports.functools_lru_cache-1.6.1.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/backports.functools_lru_cache-1.6.1.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/backports.functools_lru_cache-1.6.1.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/backports.functools_lru_cache-1.6.1.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/backports.functools_lru_cache-1.6.1.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/backports/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/backports/functools_lru_cache.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/beautifulsoup4-4.8.2.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/beautifulsoup4-4.8.2.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/beautifulsoup4-4.8.2.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/beautifulsoup4-4.8.2.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/beautifulsoup4-4.8.2.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bin/chardetect" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/builder/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/builder/_html5lib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/builder/_htmlparser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/builder/_lxml.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/dammit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/diagnose.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/formatter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/tests/test_builder_registry.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/tests/test_docs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/tests/test_html5lib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/tests/test_htmlparser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/tests/test_lxml.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/tests/test_soup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bs4/tests/test_tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi-2019.11.28.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi-2019.11.28.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi-2019.11.28.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi-2019.11.28.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi-2019.11.28.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi-2019.11.28.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi-2019.11.28.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi/__main__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi/cacert.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/certifi/core.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet-3.0.4.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet-3.0.4.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet-3.0.4.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet-3.0.4.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet-3.0.4.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet-3.0.4.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet-3.0.4.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet-3.0.4.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/big5freq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/big5prober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/chardistribution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/charsetgroupprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/charsetprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/cli/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/cli/chardetect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/codingstatemachine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/compat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/cp949prober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/enums.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/escprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/escsm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/eucjpprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/euckrfreq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/euckrprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/euctwfreq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/euctwprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/gb2312freq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/gb2312prober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/hebrewprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/jisfreq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/jpcntx.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/langbulgarianmodel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/langcyrillicmodel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/langgreekmodel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/langhebrewmodel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/langhungarianmodel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/langthaimodel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/langturkishmodel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/latin1prober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/mbcharsetprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/mbcsgroupprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/mbcssm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/sbcharsetprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/sbcsgroupprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/sjisprober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/universaldetector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/utf8prober.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chardet/version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna-2.8.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna-2.8.dist-info/LICENSE.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna-2.8.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna-2.8.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna-2.8.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna-2.8.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna/codec.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna/compat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna/core.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna/idnadata.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna/intranges.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna/package_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/idna/uts46data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests-2.22.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests-2.22.0.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests-2.22.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests-2.22.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests-2.22.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests-2.22.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/__version__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/_internal_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/adapters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/api.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/auth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/certs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/compat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/cookies.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/help.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/hooks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/packages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/sessions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/status_codes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/structures.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/requests/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve-1.9.5.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve-1.9.5.dist-info/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve-1.9.5.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve-1.9.5.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve-1.9.5.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve-1.9.5.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve/__meta__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve/css_match.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve/css_parser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve/css_types.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/soupsieve/util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3-1.25.8.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3-1.25.8.dist-info/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3-1.25.8.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3-1.25.8.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3-1.25.8.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3-1.25.8.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/_collections.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/connectionpool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/contrib/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/contrib/_appengine_environ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/contrib/appengine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/contrib/ntlmpool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/contrib/pyopenssl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/contrib/securetransport.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/contrib/socks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/fields.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/filepost.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/packages/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/packages/backports/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/packages/backports/makefile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/packages/six.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/poolmanager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/request.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/response.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/util/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/util/connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/util/queue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/util/request.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/util/response.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/util/retry.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/util/ssl_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/util/timeout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/util/url.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urllib3/util/wait.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ypapp/controllers/page_renderer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ypapp/controllers/page_renderer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ypapp/controllers/school_renderer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ypapp/controllers/school_renderer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ypapp/models/news_item.py" beforeDir="false" afterPath="$PROJECT_DIR$/ypapp/models/news_item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ypapp/schools/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ypapp/schools/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ypapp/schools/szsy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ypapp/schools/szsy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -221,7 +33,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -233,13 +45,13 @@
       <screen x="0" y="23" width="1920" height="1141" />
     </state>
     <state x="560" y="259" key="#Inspections/0.23.1920.1141@0.23.1920.1141" timestamp="1581411391511" />
-    <state x="461" y="232" key="SettingsEditor" timestamp="1581481288366">
+    <state x="443" y="270" key="SettingsEditor" timestamp="1582208795364">
       <screen x="0" y="23" width="1920" height="1141" />
     </state>
-    <state x="461" y="232" key="SettingsEditor/0.23.1920.1141@0.23.1920.1141" timestamp="1581481288366" />
-    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1581480901322">
+    <state x="443" y="270" key="SettingsEditor/0.23.1920.1141@0.23.1920.1141" timestamp="1582208795364" />
+    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1582558193596">
       <screen x="0" y="23" width="1920" height="1141" />
     </state>
-    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup/0.23.1920.1141@0.23.1920.1141" timestamp="1581480901322" />
+    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup/0.23.1920.1141@0.23.1920.1141" timestamp="1582558193596" />
   </component>
 </project>

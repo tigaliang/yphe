@@ -7,7 +7,7 @@ def render_main_page():
     schools_html = []
     school_list = \
         [
-            # schools.Szsy()
+            schools.Szsy(),
             schools.Shenzhong()
         ]
     for school in school_list:
